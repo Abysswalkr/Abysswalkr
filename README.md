@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abysswalkr" alt="abysswalkr" /></a> </p>
 
-- 🔭 I’m currently working on [a new personal portfolio](https://github.com/Abysswalkr/Jose_Portfolio.git)
+- 🔭 I’m currently studying cyber security
 
-- 🌱 I’m currently learning **Projects management,**
+- 🌱 I’m currently learning **Artificial Inteligence aplications**
 
-- 👨‍💻 All of my projects are available at [https://portafolio-g6lqddpu9-abysswalkrs-projects.vercel.app/](https://portafolio-g6lqddpu9-abysswalkrs-projects.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://josegramajodev.lovable.app/](https://josegramajodev.lovable.app/)
 
 - 💬 Ask me about **react, java, javascript, css, html, python**
 
