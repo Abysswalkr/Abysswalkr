@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm José L. Gramajo Moraga</h1>
-<h3 align="center">A passionate Junior Programmer and third-year university student specializing in Computer Engineering and Information Technologies. My goal is to develop innovative solutions that make a real-world impact while continually expanding my technical and creative skill sets.</h3>
+<h3 align="center">A passionate Junior Programmer and fourth-year university student specializing in Computer Engineering and Information Technologies. My goal is to develop innovative solutions that make a real-world impact while continually expanding my technical and creative skill sets.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abysswalkr" alt="abysswalkr" /></a> </p>
 
-- 🔭 I’m currently studying cyber security
+- 🔭 I’m currently studying Artificial Inteligence
 
 - 🌱 I’m currently learning **Artificial Inteligence aplications**
 
